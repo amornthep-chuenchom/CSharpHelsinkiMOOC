@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.genruntimeconfig.cache

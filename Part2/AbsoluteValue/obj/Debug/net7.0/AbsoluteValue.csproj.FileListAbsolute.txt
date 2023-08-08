@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\bin\Debug\net7.0\AbsoluteValue.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\bin\Debug\net7.0\AbsoluteValue.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\bin\Debug\net7.0\AbsoluteValue.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\bin\Debug\net7.0\AbsoluteValue.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\bin\Debug\net7.0\AbsoluteValue.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\refint\AbsoluteValue.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\AbsoluteValue.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AbsoluteValue\obj\Debug\net7.0\ref\AbsoluteValue.dll

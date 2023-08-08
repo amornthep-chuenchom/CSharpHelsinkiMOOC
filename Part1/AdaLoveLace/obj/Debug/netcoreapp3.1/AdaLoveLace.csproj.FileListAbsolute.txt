@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\bin\Debug\netcoreapp3.1\AdaLoveLace.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\bin\Debug\netcoreapp3.1\AdaLoveLace.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\bin\Debug\netcoreapp3.1\AdaLoveLace.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\bin\Debug\netcoreapp3.1\AdaLoveLace.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\bin\Debug\netcoreapp3.1\AdaLoveLace.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\bin\Debug\netcoreapp3.1\AdaLoveLace.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\AdaLoveLace\obj\Debug\netcoreapp3.1\AdaLoveLace.genruntimeconfig.cache

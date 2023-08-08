@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\bin\Debug\net7.0\Positivity.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\bin\Debug\net7.0\Positivity.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\bin\Debug\net7.0\Positivity.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\bin\Debug\net7.0\Positivity.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\bin\Debug\net7.0\Positivity.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\refint\Positivity.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\Positivity.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Positivity\obj\Debug\net7.0\ref\Positivity.dll

@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\bin\Debug\net7.0\OnlyPositives.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\bin\Debug\net7.0\OnlyPositives.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\bin\Debug\net7.0\OnlyPositives.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\bin\Debug\net7.0\OnlyPositives.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\bin\Debug\net7.0\OnlyPositives.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\refint\OnlyPositives.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\OnlyPositives.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\OnlyPositives\obj\Debug\net7.0\ref\OnlyPositives.dll

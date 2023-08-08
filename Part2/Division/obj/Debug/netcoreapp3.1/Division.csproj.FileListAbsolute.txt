@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\part2\Division\bin\Debug\netcoreapp3.1\Division.exe
+D:\Project\CSharpHelsinkiMOOC\part2\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\part2\Division\bin\Debug\netcoreapp3.1\Division.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Division\bin\Debug\netcoreapp3.1\Division.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache

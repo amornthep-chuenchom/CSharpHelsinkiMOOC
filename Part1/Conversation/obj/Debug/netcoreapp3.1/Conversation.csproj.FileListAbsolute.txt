@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\bin\Debug\netcoreapp3.1\Conversation.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\bin\Debug\netcoreapp3.1\Conversation.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\bin\Debug\netcoreapp3.1\Conversation.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\bin\Debug\netcoreapp3.1\Conversation.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\bin\Debug\netcoreapp3.1\Conversation.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\bin\Debug\netcoreapp3.1\Conversation.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Conversation\obj\Debug\netcoreapp3.1\Conversation.genruntimeconfig.cache

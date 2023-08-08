@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\bin\Debug\net7.0\AreWeThereYet.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\bin\Debug\net7.0\AreWeThereYet.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\bin\Debug\net7.0\AreWeThereYet.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\bin\Debug\net7.0\AreWeThereYet.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\bin\Debug\net7.0\AreWeThereYet.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\refint\AreWeThereYet.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\AreWeThereYet.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AreWeThereYet\obj\Debug\net7.0\ref\AreWeThereYet.dll

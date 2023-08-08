@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\bin\Debug\netcoreapp3.1\FromParameterToOne.exe
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\bin\Debug\netcoreapp3.1\FromParameterToOne.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\bin\Debug\netcoreapp3.1\FromParameterToOne.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\bin\Debug\netcoreapp3.1\FromParameterToOne.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\bin\Debug\netcoreapp3.1\FromParameterToOne.dll
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\bin\Debug\netcoreapp3.1\FromParameterToOne.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.dll
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\FromParameterToOne\obj\Debug\netcoreapp3.1\FromParameterToOne.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\bin\Debug\net7.0\Counting.exe
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\bin\Debug\net7.0\Counting.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\bin\Debug\net7.0\Counting.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\bin\Debug\net7.0\Counting.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\bin\Debug\net7.0\Counting.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\refint\Counting.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\Counting.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Counting\obj\Debug\net7.0\ref\Counting.dll

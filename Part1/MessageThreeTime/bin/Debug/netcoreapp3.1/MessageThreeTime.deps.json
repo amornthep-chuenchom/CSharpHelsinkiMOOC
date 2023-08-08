@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MessageThreeTime/1.0.0": {
+        "runtime": {
+          "MessageThreeTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageThreeTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

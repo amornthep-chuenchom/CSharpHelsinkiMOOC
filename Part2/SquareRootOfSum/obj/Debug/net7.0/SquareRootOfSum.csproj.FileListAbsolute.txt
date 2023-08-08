@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\bin\Debug\net7.0\SquareRootOfSum.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\bin\Debug\net7.0\SquareRootOfSum.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\bin\Debug\net7.0\SquareRootOfSum.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\bin\Debug\net7.0\SquareRootOfSum.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\bin\Debug\net7.0\SquareRootOfSum.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\refint\SquareRootOfSum.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\SquareRootOfSum.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\SquareRootOfSum\obj\Debug\net7.0\ref\SquareRootOfSum.dll

@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\bin\Debug\net7.0\FromWhereToWhere.exe
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\bin\Debug\net7.0\FromWhereToWhere.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\bin\Debug\net7.0\FromWhereToWhere.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\bin\Debug\net7.0\FromWhereToWhere.dll
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\bin\Debug\net7.0\FromWhereToWhere.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.dll
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\refint\FromWhereToWhere.dll
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\FromWhereToWhere.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\part2\FromWhereToWhere\obj\Debug\net7.0\ref\FromWhereToWhere.dll

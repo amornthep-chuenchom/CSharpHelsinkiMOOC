@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\bin\Debug\netcoreapp3.1\MultiplicationFormula.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\bin\Debug\netcoreapp3.1\MultiplicationFormula.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\bin\Debug\netcoreapp3.1\MultiplicationFormula.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\bin\Debug\netcoreapp3.1\MultiplicationFormula.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\bin\Debug\netcoreapp3.1\MultiplicationFormula.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\bin\Debug\netcoreapp3.1\MultiplicationFormula.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\MultiplicationFormula\obj\Debug\netcoreapp3.1\MultiplicationFormula.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\bin\Debug\netcoreapp3.1\DivisibleByThree.exe
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\bin\Debug\netcoreapp3.1\DivisibleByThree.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\bin\Debug\netcoreapp3.1\DivisibleByThree.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\bin\Debug\netcoreapp3.1\DivisibleByThree.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\bin\Debug\netcoreapp3.1\DivisibleByThree.dll
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\bin\Debug\netcoreapp3.1\DivisibleByThree.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.dll
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\DivisibleByThree\obj\Debug\netcoreapp3.1\DivisibleByThree.genruntimeconfig.cache

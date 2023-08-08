@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\bin\Debug\net7.0\AverageOfNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\bin\Debug\net7.0\AverageOfNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\bin\Debug\net7.0\AverageOfNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\bin\Debug\net7.0\AverageOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\bin\Debug\net7.0\AverageOfNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\refint\AverageOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\AverageOfNumbers.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AverageOfNumbers\obj\Debug\net7.0\ref\AverageOfNumbers.dll

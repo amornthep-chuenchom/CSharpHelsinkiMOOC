@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\bin\Debug\net7.0\ComparingNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\bin\Debug\net7.0\ComparingNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\bin\Debug\net7.0\ComparingNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\bin\Debug\net7.0\ComparingNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\bin\Debug\net7.0\ComparingNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\refint\ComparingNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ComparingNumbers.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\ComparingNumbers\obj\Debug\net7.0\ref\ComparingNumbers.dll

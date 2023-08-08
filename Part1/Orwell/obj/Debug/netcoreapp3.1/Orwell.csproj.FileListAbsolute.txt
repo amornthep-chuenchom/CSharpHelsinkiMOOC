@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\bin\Debug\netcoreapp3.1\Orwell.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\bin\Debug\netcoreapp3.1\Orwell.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\bin\Debug\netcoreapp3.1\Orwell.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\bin\Debug\netcoreapp3.1\Orwell.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\bin\Debug\netcoreapp3.1\Orwell.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\bin\Debug\netcoreapp3.1\Orwell.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Orwell\obj\Debug\netcoreapp3.1\Orwell.genruntimeconfig.cache

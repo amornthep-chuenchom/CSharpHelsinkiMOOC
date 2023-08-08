@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\bin\Debug\net7.0\AverageOfPositiveNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\bin\Debug\net7.0\AverageOfPositiveNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\bin\Debug\net7.0\AverageOfPositiveNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\bin\Debug\net7.0\AverageOfPositiveNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\bin\Debug\net7.0\AverageOfPositiveNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\refint\AverageOfPositiveNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\AverageOfPositiveNumbers.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\part2\AverageOfPositiveNumbers\obj\Debug\net7.0\ref\AverageOfPositiveNumbers.dll

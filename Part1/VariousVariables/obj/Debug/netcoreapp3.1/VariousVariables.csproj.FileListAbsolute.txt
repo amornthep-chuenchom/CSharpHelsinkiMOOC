@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\bin\Debug\netcoreapp3.1\VariousVariables.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\bin\Debug\netcoreapp3.1\VariousVariables.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\bin\Debug\netcoreapp3.1\VariousVariables.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\bin\Debug\netcoreapp3.1\VariousVariables.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\bin\Debug\netcoreapp3.1\VariousVariables.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\bin\Debug\netcoreapp3.1\VariousVariables.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\VariousVariables\obj\Debug\netcoreapp3.1\VariousVariables.genruntimeconfig.cache

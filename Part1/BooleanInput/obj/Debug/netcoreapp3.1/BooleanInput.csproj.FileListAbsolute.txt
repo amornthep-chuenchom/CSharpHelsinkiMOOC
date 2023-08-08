@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\bin\Debug\netcoreapp3.1\BooleanInput.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\bin\Debug\netcoreapp3.1\BooleanInput.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\bin\Debug\netcoreapp3.1\BooleanInput.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\bin\Debug\netcoreapp3.1\BooleanInput.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\bin\Debug\netcoreapp3.1\BooleanInput.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\bin\Debug\netcoreapp3.1\BooleanInput.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\BooleanInput\obj\Debug\netcoreapp3.1\BooleanInput.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\bin\Debug\netcoreapp3.1\NumberUno.exe
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\bin\Debug\netcoreapp3.1\NumberUno.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\bin\Debug\netcoreapp3.1\NumberUno.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\bin\Debug\netcoreapp3.1\NumberUno.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\bin\Debug\netcoreapp3.1\NumberUno.dll
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\bin\Debug\netcoreapp3.1\NumberUno.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.dll
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\NumberUno\obj\Debug\netcoreapp3.1\NumberUno.genruntimeconfig.cache

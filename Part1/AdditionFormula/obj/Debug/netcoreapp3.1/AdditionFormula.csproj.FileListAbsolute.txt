@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\bin\Debug\netcoreapp3.1\AdditionFormula.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\bin\Debug\netcoreapp3.1\AdditionFormula.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\bin\Debug\netcoreapp3.1\AdditionFormula.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\bin\Debug\netcoreapp3.1\AdditionFormula.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\bin\Debug\netcoreapp3.1\AdditionFormula.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\bin\Debug\netcoreapp3.1\AdditionFormula.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\AdditionFormula\obj\Debug\netcoreapp3.1\AdditionFormula.genruntimeconfig.cache

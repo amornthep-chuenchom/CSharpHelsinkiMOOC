@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\bin\Debug\net7.0\NumberAndSumOfNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\bin\Debug\net7.0\NumberAndSumOfNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\bin\Debug\net7.0\NumberAndSumOfNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\bin\Debug\net7.0\NumberAndSumOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\bin\Debug\net7.0\NumberAndSumOfNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\refint\NumberAndSumOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\NumberAndSumOfNumbers.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberAndSumOfNumbers\obj\Debug\net7.0\ref\NumberAndSumOfNumbers.dll

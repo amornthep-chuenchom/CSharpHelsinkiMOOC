@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\bin\Debug\net7.0\RepeatingBreakingAndRemembering.exe
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\bin\Debug\net7.0\RepeatingBreakingAndRemembering.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\bin\Debug\net7.0\RepeatingBreakingAndRemembering.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\bin\Debug\net7.0\RepeatingBreakingAndRemembering.dll
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\bin\Debug\net7.0\RepeatingBreakingAndRemembering.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.dll
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\refint\RepeatingBreakingAndRemembering.dll
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\RepeatingBreakingAndRemembering.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\part2\RepeatingBreakingAndRemembering\obj\Debug\net7.0\ref\RepeatingBreakingAndRemembering.dll

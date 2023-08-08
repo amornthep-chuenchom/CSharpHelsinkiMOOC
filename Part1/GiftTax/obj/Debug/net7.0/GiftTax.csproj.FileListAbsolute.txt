@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\bin\Debug\net7.0\GiftTax.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\bin\Debug\net7.0\GiftTax.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\bin\Debug\net7.0\GiftTax.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\bin\Debug\net7.0\GiftTax.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\bin\Debug\net7.0\GiftTax.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\refint\GiftTax.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\GiftTax.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\GiftTax\obj\Debug\net7.0\ref\GiftTax.dll

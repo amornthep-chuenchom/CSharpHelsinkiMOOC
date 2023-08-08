@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\bin\Debug\net7.0\CheckingTheAge.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\bin\Debug\net7.0\CheckingTheAge.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\bin\Debug\net7.0\CheckingTheAge.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\bin\Debug\net7.0\CheckingTheAge.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\bin\Debug\net7.0\CheckingTheAge.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\refint\CheckingTheAge.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\CheckingTheAge.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\CheckingTheAge\obj\Debug\net7.0\ref\CheckingTheAge.dll

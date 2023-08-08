@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\bin\Debug\netcoreapp3.1\InAHoleInTheGround.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\bin\Debug\netcoreapp3.1\InAHoleInTheGround.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\bin\Debug\netcoreapp3.1\InAHoleInTheGround.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\bin\Debug\netcoreapp3.1\InAHoleInTheGround.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\bin\Debug\netcoreapp3.1\InAHoleInTheGround.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\bin\Debug\netcoreapp3.1\InAHoleInTheGround.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\InAHoleInTheGround\obj\Debug\netcoreapp3.1\InAHoleInTheGround.genruntimeconfig.cache

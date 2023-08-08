@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\bin\Debug\net7.0\SumOfASequence.exe
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\bin\Debug\net7.0\SumOfASequence.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\bin\Debug\net7.0\SumOfASequence.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\bin\Debug\net7.0\SumOfASequence.dll
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\bin\Debug\net7.0\SumOfASequence.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.dll
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\refint\SumOfASequence.dll
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\SumOfASequence.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\part2\SumOfASequence\obj\Debug\net7.0\ref\SumOfASequence.dll

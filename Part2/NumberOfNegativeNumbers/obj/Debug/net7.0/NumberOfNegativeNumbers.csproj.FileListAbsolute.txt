@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\bin\Debug\net7.0\NumberOfNegativeNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\bin\Debug\net7.0\NumberOfNegativeNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\bin\Debug\net7.0\NumberOfNegativeNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\bin\Debug\net7.0\NumberOfNegativeNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\bin\Debug\net7.0\NumberOfNegativeNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\refint\NumberOfNegativeNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\NumberOfNegativeNumbers.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNegativeNumbers\obj\Debug\net7.0\ref\NumberOfNegativeNumbers.dll

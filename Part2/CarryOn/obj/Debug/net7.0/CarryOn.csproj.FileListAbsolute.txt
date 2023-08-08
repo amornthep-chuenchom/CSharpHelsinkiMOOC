@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\bin\Debug\net7.0\CarryOn.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\bin\Debug\net7.0\CarryOn.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\bin\Debug\net7.0\CarryOn.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\bin\Debug\net7.0\CarryOn.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\bin\Debug\net7.0\CarryOn.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\refint\CarryOn.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\CarryOn.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\CarryOn\obj\Debug\net7.0\ref\CarryOn.dll

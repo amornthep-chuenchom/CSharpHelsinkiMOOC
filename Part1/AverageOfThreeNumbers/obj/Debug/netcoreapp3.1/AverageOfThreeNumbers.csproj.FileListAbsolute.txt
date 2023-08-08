@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\bin\Debug\netcoreapp3.1\AverageOfThreeNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\bin\Debug\netcoreapp3.1\AverageOfThreeNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\bin\Debug\netcoreapp3.1\AverageOfThreeNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\bin\Debug\netcoreapp3.1\AverageOfThreeNumbers.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\bin\Debug\netcoreapp3.1\AverageOfThreeNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\bin\Debug\netcoreapp3.1\AverageOfThreeNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\AverageOfThreeNumbers\obj\Debug\netcoreapp3.1\AverageOfThreeNumbers.genruntimeconfig.cache

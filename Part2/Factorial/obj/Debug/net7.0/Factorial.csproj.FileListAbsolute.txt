@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\bin\Debug\net7.0\Factorial.exe
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\bin\Debug\net7.0\Factorial.deps.json
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\bin\Debug\net7.0\Factorial.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\bin\Debug\net7.0\Factorial.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\bin\Debug\net7.0\Factorial.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\refint\Factorial.dll
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.pdb
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\Factorial.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\part2\Factorial\obj\Debug\net7.0\ref\Factorial.dll

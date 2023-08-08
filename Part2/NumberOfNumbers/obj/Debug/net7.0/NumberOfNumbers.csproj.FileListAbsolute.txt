@@ -1,0 +1,15 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\bin\Debug\net7.0\NumberOfNumbers.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\bin\Debug\net7.0\NumberOfNumbers.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\bin\Debug\net7.0\NumberOfNumbers.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\bin\Debug\net7.0\NumberOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\bin\Debug\net7.0\NumberOfNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\refint\NumberOfNumbers.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\NumberOfNumbers.genruntimeconfig.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\NumberOfNumbers\obj\Debug\net7.0\ref\NumberOfNumbers.dll

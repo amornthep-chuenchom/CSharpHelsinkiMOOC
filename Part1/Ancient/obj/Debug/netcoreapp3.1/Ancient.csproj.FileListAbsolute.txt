@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\bin\Debug\netcoreapp3.1\Ancient.exe
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\bin\Debug\netcoreapp3.1\Ancient.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\bin\Debug\netcoreapp3.1\Ancient.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\bin\Debug\netcoreapp3.1\Ancient.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\bin\Debug\netcoreapp3.1\Ancient.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\bin\Debug\netcoreapp3.1\Ancient.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.dll
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.pdb
+D:\Project\CSharpHelsinkiMOOC\Part1\Ancient\obj\Debug\netcoreapp3.1\Ancient.genruntimeconfig.cache
