@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\bin\Debug\netcoreapp3.1\ListSize.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\bin\Debug\netcoreapp3.1\ListSize.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\bin\Debug\netcoreapp3.1\ListSize.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\bin\Debug\netcoreapp3.1\ListSize.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\bin\Debug\netcoreapp3.1\ListSize.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\bin\Debug\netcoreapp3.1\ListSize.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\ListSize\obj\Debug\netcoreapp3.1\ListSize.genruntimeconfig.cache

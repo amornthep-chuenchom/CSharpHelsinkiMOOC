@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\bin\Debug\netcoreapp3.1\SecondPlusThird.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\bin\Debug\netcoreapp3.1\SecondPlusThird.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\bin\Debug\netcoreapp3.1\SecondPlusThird.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\bin\Debug\netcoreapp3.1\SecondPlusThird.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\bin\Debug\netcoreapp3.1\SecondPlusThird.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\bin\Debug\netcoreapp3.1\SecondPlusThird.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\SecondPlusThird\obj\Debug\netcoreapp3.1\SecondPlusThird.genruntimeconfig.cache

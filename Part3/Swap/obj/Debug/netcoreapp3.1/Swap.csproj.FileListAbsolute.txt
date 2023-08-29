@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache

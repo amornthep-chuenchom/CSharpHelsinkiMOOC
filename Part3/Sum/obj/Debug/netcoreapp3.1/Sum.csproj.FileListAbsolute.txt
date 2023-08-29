@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

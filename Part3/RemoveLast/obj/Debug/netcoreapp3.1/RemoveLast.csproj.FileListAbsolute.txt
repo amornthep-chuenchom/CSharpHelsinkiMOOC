@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\bin\Debug\netcoreapp3.1\RemoveLast.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\bin\Debug\netcoreapp3.1\RemoveLast.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\bin\Debug\netcoreapp3.1\RemoveLast.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\bin\Debug\netcoreapp3.1\RemoveLast.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\bin\Debug\netcoreapp3.1\RemoveLast.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\bin\Debug\netcoreapp3.1\RemoveLast.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\RemoveLast\obj\Debug\netcoreapp3.1\RemoveLast.genruntimeconfig.cache

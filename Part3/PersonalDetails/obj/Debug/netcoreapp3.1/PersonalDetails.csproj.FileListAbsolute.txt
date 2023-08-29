@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.genruntimeconfig.cache

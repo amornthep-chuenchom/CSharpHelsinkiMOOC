@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\bin\Debug\netcoreapp3.1\AdvancedAstrology.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\bin\Debug\netcoreapp3.1\AdvancedAstrology.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\bin\Debug\netcoreapp3.1\AdvancedAstrology.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\bin\Debug\netcoreapp3.1\AdvancedAstrology.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\bin\Debug\netcoreapp3.1\AdvancedAstrology.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\bin\Debug\netcoreapp3.1\AdvancedAstrology.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\AdvancedAstrology\obj\Debug\netcoreapp3.1\AdvancedAstrology.genruntimeconfig.cache

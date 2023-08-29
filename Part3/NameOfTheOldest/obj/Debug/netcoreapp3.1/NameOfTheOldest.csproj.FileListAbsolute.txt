@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\bin\Debug\netcoreapp3.1\NameOfTheOldest.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\bin\Debug\netcoreapp3.1\NameOfTheOldest.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\bin\Debug\netcoreapp3.1\NameOfTheOldest.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\bin\Debug\netcoreapp3.1\NameOfTheOldest.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\bin\Debug\netcoreapp3.1\NameOfTheOldest.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\bin\Debug\netcoreapp3.1\NameOfTheOldest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\NameOfTheOldest\obj\Debug\netcoreapp3.1\NameOfTheOldest.genruntimeconfig.cache

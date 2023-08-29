@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\bin\Debug\netcoreapp3.1\Greatest.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\bin\Debug\netcoreapp3.1\Greatest.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\bin\Debug\netcoreapp3.1\Greatest.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\bin\Debug\netcoreapp3.1\Greatest.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\bin\Debug\netcoreapp3.1\Greatest.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\bin\Debug\netcoreapp3.1\Greatest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\Greatest\obj\Debug\netcoreapp3.1\Greatest.genruntimeconfig.cache

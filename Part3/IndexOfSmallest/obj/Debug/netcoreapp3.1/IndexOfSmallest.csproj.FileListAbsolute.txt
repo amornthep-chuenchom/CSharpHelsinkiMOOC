@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\bin\Debug\netcoreapp3.1\IndexOfSmallest.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\bin\Debug\netcoreapp3.1\IndexOfSmallest.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\bin\Debug\netcoreapp3.1\IndexOfSmallest.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\bin\Debug\netcoreapp3.1\IndexOfSmallest.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\bin\Debug\netcoreapp3.1\IndexOfSmallest.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\bin\Debug\netcoreapp3.1\IndexOfSmallest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOfSmallest\obj\Debug\netcoreapp3.1\IndexOfSmallest.genruntimeconfig.cache

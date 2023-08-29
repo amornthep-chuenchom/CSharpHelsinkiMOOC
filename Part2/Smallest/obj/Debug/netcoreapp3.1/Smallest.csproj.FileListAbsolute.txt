@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\bin\Debug\netcoreapp3.1\Smallest.exe
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\bin\Debug\netcoreapp3.1\Smallest.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\bin\Debug\netcoreapp3.1\Smallest.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\bin\Debug\netcoreapp3.1\Smallest.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\bin\Debug\netcoreapp3.1\Smallest.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\bin\Debug\netcoreapp3.1\Smallest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.dll
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.pdb
+D:\Project\CSharpHelsinkiMOOC\Part2\Smallest\obj\Debug\netcoreapp3.1\Smallest.genruntimeconfig.cache

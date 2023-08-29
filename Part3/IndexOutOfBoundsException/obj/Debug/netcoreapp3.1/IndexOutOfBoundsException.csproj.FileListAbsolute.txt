@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\bin\Debug\netcoreapp3.1\IndexOutOfBoundsException.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\bin\Debug\netcoreapp3.1\IndexOutOfBoundsException.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\bin\Debug\netcoreapp3.1\IndexOutOfBoundsException.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\bin\Debug\netcoreapp3.1\IndexOutOfBoundsException.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\bin\Debug\netcoreapp3.1\IndexOutOfBoundsException.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\bin\Debug\netcoreapp3.1\IndexOutOfBoundsException.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\IndexOutOfBoundsException\obj\Debug\netcoreapp3.1\IndexOutOfBoundsException.genruntimeconfig.cache

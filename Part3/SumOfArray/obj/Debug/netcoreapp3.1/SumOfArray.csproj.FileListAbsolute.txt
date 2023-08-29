@@ -1,0 +1,14 @@
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.exe
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.deps.json
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.runtimeconfig.json
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.runtimeconfig.dev.json
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.csproj.AssemblyReference.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.AssemblyInfoInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.AssemblyInfo.cs
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.csproj.CoreCompileInputs.cache
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.dll
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.pdb
+D:\Project\CSharpHelsinkiMOOC\Part3\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.genruntimeconfig.cache
